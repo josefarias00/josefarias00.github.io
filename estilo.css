@@ -84,6 +84,7 @@ margin: solid rgb(85, 22, 22) 50px;}
     margin: 6px 0;
     border-color: rgba(1, 46, 112, 0.308);
     flex-direction: row;
+    color: rgb(255, 255, 255);
 }
 
 .Letras
